@@ -10,3 +10,4 @@ Type of ontologies - https://en.wikipedia.org/wiki/Ontology#Types
 ## Visualization
 
 http://owlgred.lumii.lv/online_visualization
+http://vowl.visualdataweb.org/webvowl.html
